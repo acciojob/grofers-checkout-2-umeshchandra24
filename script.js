@@ -1,5 +1,6 @@
 //your code here
 // Get the prices elements
+// Get the prices elements
 const pricesElements = document.querySelectorAll('[data-ns-test="prices"]');
 
 // Calculate the total price
